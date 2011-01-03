@@ -1,0 +1,17 @@
+bin/**/*
+include/**/*
+lib/**/*
+
+bin/*
+lib/*
+include/*
+
+bin
+lib
+include
+
+*.pyc
+
+.Python
+build/
+
