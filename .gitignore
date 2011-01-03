@@ -11,3 +11,7 @@ lib
 include
 
 *.pyc
+
+.Python
+build/
+
